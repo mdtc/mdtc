@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mario Campos
 - 👀 I’m interested in Software development, Web development and Machine Learning 
-- 🌱 I’m currently studying my Master of IT at Univeristy Southern Queensland Australia 
+- 🌱 I have a Master of Information Technology 
 - 💞️ I’m looking to collaborate on any intersting proyect that allows me to practice and learn  
 - 📫 How to reach me.... https://www.linkedin.com/in/mariodanielcampos
 
